@@ -1,4 +1,4 @@
-name: 'GCS Cache'
+name: 'GCS Cache node 20'
 author: 'passCulture'
 description: 'Cache your workload to a Google Cloud Storage bucket'
 
